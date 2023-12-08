@@ -173,10 +173,9 @@ header {
         padding-bottom: 15px; /* Add padding for spacing */
         text-align:left; /* Center text */
         background-color:#3333331d;
-        margin-right: 0%;
     }
     .button{
-        width: 70%;
+        width: 90%;
         text-align:center;
     }
     .image1{
